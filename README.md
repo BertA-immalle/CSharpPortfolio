@@ -2,5 +2,4 @@
 
 ## index
 
-- classes
-	- [classes](classes)
+- [classes](classes)

@@ -1,0 +1,9 @@
+Z:\ib\_2015-2016\5IB\Sem2\2016-02-19-DobbelsteenVarianten\DobbelsteenVarianten\DobbelsteenVarianten\bin\Debug\DobbelsteenVarianten.exe.config
+Z:\ib\_2015-2016\5IB\Sem2\2016-02-19-DobbelsteenVarianten\DobbelsteenVarianten\DobbelsteenVarianten\obj\Debug\DobbelsteenVarianten.csprojResolveAssemblyReference.cache
+Z:\ib\_2015-2016\5IB\Sem2\2016-02-19-DobbelsteenVarianten\DobbelsteenVarianten\DobbelsteenVarianten\bin\Debug\DobbelsteenVarianten.exe
+Z:\ib\_2015-2016\5IB\Sem2\2016-02-19-DobbelsteenVarianten\DobbelsteenVarianten\DobbelsteenVarianten\bin\Debug\DobbelsteenVarianten.pdb
+Z:\ib\_2015-2016\5IB\Sem2\2016-02-19-DobbelsteenVarianten\DobbelsteenVarianten\DobbelsteenVarianten\obj\Debug\DobbelsteenVarianten.exe
+Z:\ib\_2015-2016\5IB\Sem2\2016-02-19-DobbelsteenVarianten\DobbelsteenVarianten\DobbelsteenVarianten\obj\Debug\DobbelsteenVarianten.pdb
+\\imma-fs-0003\bert.anthonissen$\documents\school\Software\CSharpPortfolio\DobbelsteenVarianten\DobbelsteenVarianten\bin\Debug\DobbelsteenVarianten.exe.config
+\\imma-fs-0003\bert.anthonissen$\documents\school\Software\CSharpPortfolio\DobbelsteenVarianten\DobbelsteenVarianten\obj\Debug\DobbelsteenVarianten.exe
+\\imma-fs-0003\bert.anthonissen$\documents\school\Software\CSharpPortfolio\DobbelsteenVarianten\DobbelsteenVarianten\obj\Debug\DobbelsteenVarianten.pdb

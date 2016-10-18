@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Vraag 4</title>
+</head>
+<body>
+    <p id="tellerView"></p>
+    <button id="startButton">Start</button>
+    <button id="stopButton">Stop</button>
+    <script>
+      var timer;
+      var teller = 0;
+
+      function startClicked() {
+        timer = setInterval(timerTick, 1000);
+      }
+
+      function stopClicked() {
+        clearInterval(timer);
+      }
+
+      function timerTick() {
+        teller++;
+        var view = document.getElementById("tellerView");
+        view.innerHTML = teller;
+      }
+
+      function init() {
+        var startButton = document.getElementById("startButton");
+        var stopButton = document.getElementById("stopButton");
+
+        startButton.addEventListener("click", startClicked);
+        stopButton.addEventListener("click", stopClicked);
+      }
+
+      init();
+    </script>
+</body>
+</html>

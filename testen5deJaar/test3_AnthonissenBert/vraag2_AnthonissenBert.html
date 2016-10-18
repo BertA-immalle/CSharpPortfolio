@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+</head>
+<body>
+
+</body>
+</html>
+<script>
+    console.log("-- groet/groeter --");
+
+    function groet() {
+        console.log("hallo!");
+    }
+    function groeter(f) {
+        if (f != groet()) {
+            alert("Error: Geen functie");
+        } else {
+            var f = "hallo!";
+            console.log(f + "\n" + f + "\n" + f);
+        }
+    }
+    groeter(groet());
+</script>

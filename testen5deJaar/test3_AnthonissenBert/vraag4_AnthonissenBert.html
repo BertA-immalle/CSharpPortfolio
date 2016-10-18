@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+</head>
+<body>
+    <button id="startButton">START</button>
+    <button id="stopButton">STOP</button>
+    <p id="tellerView"></p>
+</body>
+</html>
+<script>
+    var teller = 0
+
+    var start = document.getElementById("startButton");
+    start.addEventListener("click", update);
+    var stop = document.getElementById("stopButton");
+    stop.addEventListener("click", stop);
+
+    function update() {
+        var getal = 2;
+        for (var i = 0; i <= getal; i++) {
+            console.log(i);
+        }
+    }
+    setInterval(teller + 1, 1000);
+
+    function stop() {
+        clearInterval(update);
+    }
+</script>
